@@ -9,7 +9,7 @@ const HomePage = () => (
     <div className={"page-wrapper"}>
       <img
         className={"rainbow-cornell"}
-        src={require("../images/CornellLGBTQ.jpg")}
+        src={require("../images/CornellLGBTQ.png")}
       />
       <br />
       <br />
