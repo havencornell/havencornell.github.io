@@ -14,7 +14,7 @@ const HomePage = () => (
       <br />
       <br />
       <br />
-      <div className={"page-title"}> Haven: Cornell's LGBTQ Student Union</div>
+      <div className={"page-title"}> Haven: Cornell's LGBTQ+ Student Union</div>
     </div>
   </div>
 );
