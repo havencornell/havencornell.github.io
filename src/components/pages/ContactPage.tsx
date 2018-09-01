@@ -20,6 +20,7 @@ const ContactPage = () => (
           <a href={"mailto:jsa94@cornell.edu"}>Joseph Anderson</a>.<br /> <br />
           To reach the Haven Treasurer, email{" "}
           <a href={"mailto:haventreasurer.cornell@gmail.com"}>Elisha Chen</a>.
+          <br /> <br />
           To reach the Haven Secretary, email{" "}
           <a href={"mailto:cjm353@cornell.edu"}>Cassidy Mileti</a>.
           <br /> <br />
