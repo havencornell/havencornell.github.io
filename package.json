@@ -1,7 +1,8 @@
 {
   "name": "haven-app",
+  "homepage": "https://havencornell.github.io",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@petejkim/react-scripts-ts-sass": "2.15.2",
     "classnames": "^2.2.6",
