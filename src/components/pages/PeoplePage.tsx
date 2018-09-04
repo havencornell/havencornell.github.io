@@ -28,7 +28,7 @@ const PeoplePage = () => (
         />
         <BoardMemberDescription
           blurb={""}
-          majorAndYear={"'20, Communications"}
+          majorAndYear={"'20, Communication"}
           name={"Sophie Cook"}
           netID={"svc23"}
           photoPath={"sophie"}
