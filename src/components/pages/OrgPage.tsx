@@ -44,7 +44,7 @@ const PeoplePage = () => (
         />
         <SuborgDescription
           blurb={
-            "A confidential peer run social, support, and event planning organization for lesbian, bisexual, queer, questioning and transwomen on campus.\n"
+            "Lavender is a peer-run social support group for lesbian, bisexual, transgender, queer, and questioning women and nonbinary folks. Lavender creates a safe confidential meeting space for all members of the Cornell or Ithaca greater community who want to come together around issues of being lesbian, bisexual, transgender, queer, or questioning."
           }
           email={"cjm353@cornell.edu"}
           name={"Lavender"}
