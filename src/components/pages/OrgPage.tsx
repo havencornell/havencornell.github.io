@@ -52,7 +52,7 @@ const PeoplePage = () => (
         />
         <SuborgDescription
           blurb={
-            "MOSAIC is a peer social support organization for LGBTQ people of color and allies. MOSAIC’s social goals include giving QPOC and allies a place to belong, weekly meeting, supporting QPOC speakers to come to campus, and organizing activities and events geared towards awareness."
+            "MOSAIC is a peer social support organization for LGBTQ people of color and allies. MOSAIC’s social goals include giving QTPOC and allies a place to belong, weekly meeting, supporting QTPOC speakers to come to campus, and organizing activities and events geared towards awareness."
           }
           email={"mosaiccornell@cornell.edu"}
           name={"MOSAIC"}
