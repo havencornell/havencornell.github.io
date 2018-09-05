@@ -68,7 +68,7 @@ const PeoplePage = () => (
         />
         <SuborgDescription
           blurb={
-            "The Queer Pre-Health Alliance is looking for LGBTQ+ students who are interested in the Pre-health field (such as pre-med or any health related career). Queer Pre-Health Association is planning to create a documentary regarding health disparities f"
+            "The Queer Pre-Health Alliance is looking for LGBTQ+ students who are interested in the Pre-health field (such as pre-med or any health related career)."
           }
           email={"dgd68@cornell.edu"}
           name={"Queer Pre-Health Association"}
