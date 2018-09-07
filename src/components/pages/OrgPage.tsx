@@ -84,7 +84,7 @@ const PeoplePage = () => (
         />
         <SuborgDescription
           blurb={
-            "Reading Rainbow is an LGBTQ+ book club that focuses on articles and excerpts relating to the queer community."
+            "Reading Rainbow is a club that meets to discuss articles, short stories, and books related to LGBTQ+ issues. We will use the readings to have more in-depth discussions of various issues and hear perspectives of people outside of club members. Queer students and allies are encouraged to join!"
           }
           email={"svc23@cornell.edu"}
           name={"Reading Rainbow"}
