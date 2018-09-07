@@ -80,7 +80,7 @@ const PeoplePage = () => (
           }
           email={"jsa94@cornell.edu"}
           name={"Queer Political Action Coalition"}
-          orgsyncURL={"?"}
+          orgsyncURL={"https://orgsync.com/175603/"}
         />
         <SuborgDescription
           blurb={
@@ -88,7 +88,7 @@ const PeoplePage = () => (
           }
           email={"svc23@cornell.edu"}
           name={"Reading Rainbow"}
-          orgsyncURL={"?"}
+          orgsyncURL={"https://orgsync.com/175538/"}
         />
         <SuborgDescription
           blurb={
