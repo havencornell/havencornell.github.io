@@ -9,6 +9,11 @@ const EventsPage = () => (
     <div className={"page-wrapper"}>
       <div className={"page-contents"}>
         <h2>Calendar</h2>
+        <div>
+        	<b>Note:</b> Some meeting locations/times aren't included in the calendar for member confidentiality.
+        	<br /> In order to attend these meetings, please join the group's mailing list or contact the group via e-mail.
+        </div>
+        <br />
         <iframe
           className={"calendar"}
           src="https://calendar.google.com/calendar/embed?src=cornell.edu_if9espltuba10s0lnofm1c5v9c%40group.calendar.google.com&ctz=America%2FNew_York"
