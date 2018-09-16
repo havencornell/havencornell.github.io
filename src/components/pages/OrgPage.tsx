@@ -79,7 +79,7 @@ const PeoplePage = () => (
             "QPAC is an organization for queer students interested in political action. Whether at Cornell or elsewhere, QPAC strives to educate and develop individuals on all queer issues to advocate for the progress and advancement of our community."
           }
           email={"jsa94@cornell.edu"}
-          name={"Queer Political Action Coalition"}
+          name={"Queer Political Action Committee"}
           orgsyncURL={"https://orgsync.com/175603/"}
         />
         <SuborgDescription
